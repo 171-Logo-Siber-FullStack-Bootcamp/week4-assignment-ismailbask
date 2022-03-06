@@ -41,11 +41,6 @@ import SidebarBrand from './components/SideBarComp/SidebarBrand.vue'
 import SidebarMenu from './components/SideBarComp/SidebarMenu'
 import TopbarSearch from './components/TopBarComp/TopbarSearch'
 import TopNavbar from './components/TopBarComp/TopNavbar'
-
-
-
-
-
 export default {
   name: 'App',
   components: {
@@ -57,12 +52,9 @@ export default {
     SidebarMenu,
     TopbarSearch,
     TopNavbar
-
-
   }
 }
 </script>
-
 <style>
 #app {
   /* font-family: Avenir, Helvetica, Arial, sans-serif;
